@@ -4,9 +4,8 @@ Welcome to the Odin Project! This repository is part of an exercise to practice 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Contributing](#contributing)
-- [License](#license)
+just a couple HMTL files will be added
+    an index page and a few recipes
 
 ## Introduction
 The Odin Project is a project aimed at practicing markdown and GitHub workflows. This repository is part of an exercise to improve these skills.
