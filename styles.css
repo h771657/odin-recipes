@@ -1,0 +1,27 @@
+body{
+    background-color: #fae2c5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.list{
+    background-color: #d5f0dc;
+    font-family:  Garamond, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-weight: 1000;
+    font-size: 40px;
+    
+}
+.list{
+    font-weight: 700;
+    padding: 30px;
+    font-size: 20px;
+}
+li{
+    font-size: medium;
+    font-weight: 400;
+
+}
+#first-list-item{
+    padding-top: 10px;
+}
