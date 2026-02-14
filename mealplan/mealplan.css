@@ -1,0 +1,27 @@
+#meal-grid {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+#meal-grid th, #meal-grid td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  min-width: 300px;
+  text-align: center;
+  min-height: 80px;
+  vertical-align: middle;
+}
+ .cell-input {
+  display: none;       /* alapból rejtve */
+  width: 90%;
+  box-sizing: border-box;
+}
+
+td {
+  min-height: 80px;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+}
