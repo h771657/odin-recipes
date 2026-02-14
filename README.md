@@ -1,14 +1,21 @@
-# Odin Project
+# Odin Recipes
 
-Welcome to the Odin Project! This repository is part of an exercise to practice markdown and GitHub workflows.
+Started out as an Odin Project excersice, decided to continue as a passion project.
 
 ## Table of Contents
 
-just a couple HMTL files will be added
-    an index page and a few recipes
+Main Page
+Recipes
+Cooking skills and techniques
+Mealplanner
 
 ## Introduction
-The Odin Project is a project aimed at practicing markdown and GitHub workflows. This repository is part of an exercise to improve these skills.
+This is a pet project of mine. 
+
+Started out as an excercise for basic html elements, css and github usage, one of the first excercises during the curriculum. 
+But cooking also happens to be my passion, so I decided to apply the things I learn during the curriculum not only on the planned excercises but this project as well.
+
+Later I plan to expand it's functions, as of now I still have a lot to learn, but already have some ideas for more pages and a long list of recipes to jot down.
 
 ## Contributing
 
@@ -20,7 +27,3 @@ We welcome contributions from everyone. If you have something you'd like to shar
 4. Submit a pull request.
 
 Please ensure your contribution includes all necessary information and follows the repository guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
